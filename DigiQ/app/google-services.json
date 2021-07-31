@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428431680201",
+    "project_id": "digiq-a8d64",
+    "storage_bucket": "digiq-a8d64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428431680201:android:e788d96929cff7c18da318",
+        "android_client_info": {
+          "package_name": "com.example.digiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428431680201-9u4da5cqio3u88ubdckomao7rtm1tcq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_wTrWYCukbxc9SoGQo-KIqBgX53aVKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428431680201-9u4da5cqio3u88ubdckomao7rtm1tcq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
